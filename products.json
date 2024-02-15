@@ -1,0 +1,13 @@
+[
+    {
+        "title":"P1",
+        "category":"food",
+        "price":"3000"
+    },
+    {
+        "title":"P2",
+        "category":"other",
+        "price":"4000"
+    }
+
+]
